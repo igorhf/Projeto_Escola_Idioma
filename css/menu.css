@@ -1,0 +1,27 @@
+.menu{
+	text-align: center;
+	background: #3399ff;
+	padding-bottom: 10px;
+	padding-top: 10px;	
+}
+
+.menu li{
+	display: inline-block;
+}
+
+.menu li>a{
+	font-size:22px;
+	font-family: arial,consolas;
+	text-decoration: none;
+	color: #fff;
+	padding: 25px 10px 25px 10px;
+
+}
+
+.menu li>a:hover{
+	transition: 2s;
+	background: #00cc66;
+}
+.menu ul{
+	display: inline-block;
+}

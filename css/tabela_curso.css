@@ -1,0 +1,13 @@
+.tb_curso table{
+	margin: auto;
+
+	font-size: 18px;
+	font-family: arial,consolas;
+}
+.tb_curso td{
+	padding: 5px 5px 5px 5px;
+}
+.tb_curso th{
+	padding: 5px 5px 5px 5px;
+	
+}

@@ -1,0 +1,12 @@
+
+.tb_prof td{
+	padding: 5px 5px 5px 5px;
+}
+.tb_prof th{
+	padding: 5px 5px 5px 5px;
+}
+.tb_prof table{
+	margin: auto;	
+	font-size: 18px;
+	font-family: arial,consolas;
+}

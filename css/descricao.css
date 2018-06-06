@@ -1,0 +1,21 @@
+.descricao{
+	text-align: justify;
+	font-family: arial,consolas;
+	font-size:18px;
+}
+
+.div_texto p{
+	text-align:center;	
+	text-indent: 20px;
+	font-size: 18px;
+	font-family: arial,consolas;
+}
+.div_texto{
+	text-align:center;
+}
+
+.div_texto span{
+	font-size: 30px;
+	font-family: arial;
+}
+

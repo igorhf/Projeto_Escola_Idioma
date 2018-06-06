@@ -1,0 +1,13 @@
+.usuario a{
+	text-decoration: none;
+	font-size: 18px;
+	font-family: arial,consolas;
+	padding: 5px 5px 5px 5px;
+	color: black;
+
+}
+.usuario{
+	text-align:right;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
